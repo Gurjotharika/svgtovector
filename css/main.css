@@ -1,0 +1,96 @@
+body {
+    background: #ffffff;
+}
+
+.hub {
+    display: block;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    position: absolute;
+    }
+    
+    .hub span:nth-child(2) {
+    background: #FF9900;
+    color: #000000;
+    border-radius: .4rem;
+    padding: .35rem;
+    display: inline-block;
+    }
+
+footer {
+    margin-top: 8px;
+    color: #212529;
+    text-align: center;
+}
+
+footer small a {
+    color: #7AA7CF;
+}
+
+#main-container {
+    position: relative;
+    background: #ffffff;
+    box-shadow: 0 1px 16px silver;
+
+}
+
+#output-code {
+    white-space: pre-wrap;
+}
+
+.drag {
+    background-color: lightblue;
+}
+
+.info-items td {
+    vertical-align: top;
+}
+
+.info-items td:first-child {
+    width: 90px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+*{
+    font-family: 'Noto Sans Mono', monospace;
+}
+#header {
+    background: #e0f2f1;
+    color: #7FB6B4;
+}
+
+#header h3 {
+    margin: 0;
+}
+
+#dropzone {
+    height: 450px;
+    width: 100%;
+    font-size: 1.2em;
+    cursor: pointer;
+    text-align: center;
+    display: table;
+    table-layout: fixed;
+}
+
+#dropzone .panel-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#output-box {
+    display: none;
+}
+
+#button-box {
+    position: absolute;
+    right: 40px;
+}
+
+#last-update {
+    float: right;
+    margin-top: -5px;
+    color: #aed0cf;
+    display: none;
+}

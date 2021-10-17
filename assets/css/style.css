@@ -1,0 +1,34 @@
+.header__top { background: #f27646 }
+        .header__top::before { background: #4acc75 }
+        .header__arrow span { background: url(/files/extra/header-arrow-3.svg ) center center no-repeat; }
+        .btn { background-color: #4acc75 }
+        .btn:hover { background: #3eba64; }
+        .btn2, .btn--convert, .files-item__download, .start-download, .file-start__downloading { background-color: #f27646 }
+        .btn2:hover, .btn--convert:hover, .files-item__download:hover, .start-download:hover, .file-start__downloading:hover { background: #d15d30; }
+        .files-item__download { border: 1px solid #f27646; }
+        .files-item__download:hover { background:#fff; color: #d15d30; }
+        .file--from .file__icon { background: #4acc75 }
+        .file--from .file__icon::before { border-bottom-color: #3eba64 }
+        .file--to .file__icon { background: #f27646 }
+        .file--to .file__icon::before { border-bottom-color: #d15d30 }
+        .files-item__converting .animation-bar { background-color: #f27646 }
+        .files-item__converting { background-color: #d15d30 }
+        .format_from_color_primary { color: #4acc75 }
+        .format_to_color_primary { color: #f27646 }
+        .how-to__description span { color: #4acc75 }
+        .how-to__description span.three { color: #f27646 }
+        .btn4:hover { color: #4acc75 }
+                .file--png .file__icon { background: #4acc75; }
+        .file--png .file__icon:before { border-bottom-color: #3eba64; }
+        .file--png:hover .file__title { color: #4acc75; }
+        .convert-file__format { color: #d15d30 }
+        .files-item__converting { background-color: #d15d30 }
+        .files-item__converting .animation-bar { background-color: #f27646 }
+                .links__link:hover { background: linear-gradient(90deg, #4acc75 40%, #f27646 60%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+                .links__link.links__link-site3:hover { background: linear-gradient(90deg, #4acc75 40%, #ee4135 60%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+                .links__link.links__link-site28:hover { background: linear-gradient(90deg, #4acc75 40%, #26c0a1 60%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+                .links__link.links__link-site12:hover { background: linear-gradient(90deg, #f27646 40%, #4acc75 60%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+                .links__link.links__link-site10:hover { background: linear-gradient(90deg, #9adc58 40%, #f27646 60%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+                .links__link.links__link-site29:hover { background: linear-gradient(90deg,  40%,  60%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+
+                
